@@ -2,10 +2,9 @@
     margin: 1%;
     border: 2px solid black;
     border-radius: 20px;
-    width: 24rem; /* Ajuste del ancho de la tarjeta */
+
 }
 
 .card1 img {
     border-radius: 20px;
-    width: 100%;
 }
